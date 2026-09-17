@@ -1,4 +1,4 @@
-string = "bteetera"
+string = "teetera"
 
 for char in string:
     if string.count(char) == 1:

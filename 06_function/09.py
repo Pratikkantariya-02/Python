@@ -4,3 +4,5 @@ def even_generator(limit):
 
 for num in even_generator(10):
     print(num)
+
+# It was use to pause the function execution.

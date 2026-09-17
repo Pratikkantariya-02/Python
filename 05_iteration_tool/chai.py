@@ -30,3 +30,9 @@ print(username)
 # False
 # iter(mylist) is mylist.__iter__()
 # False
+
+
+""" Iteration is the process of repeatedly executing a block of code through a collection of 
+    element one by one."""
+
+

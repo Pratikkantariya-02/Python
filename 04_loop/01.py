@@ -5,3 +5,12 @@ for num in numbers:
     if num > 0:
         positive_num_count.append(num)
 print("Final count of positive num is : ",positive_num_count)
+
+
+
+positive_num_count = 0
+
+for num in numbers:
+    if num > 0:
+        positive_num_count += 1
+print("Final count of positive num is : ",positive_num_count)

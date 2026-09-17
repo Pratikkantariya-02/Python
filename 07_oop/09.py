@@ -11,3 +11,5 @@ class ElectricCar(Car):
 my_tesla = ElectricCar("Tesla","S","100kwh")
 print(isinstance(my_tesla,Car))
 print(isinstance(my_tesla,Car))
+
+""" Use to check object is belongs to specific class or not"""

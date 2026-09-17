@@ -13,3 +13,5 @@ def example(n):
     time.sleep(n)
 
 example(3)
+
+""" We can modify the function whithout changing in source code."""

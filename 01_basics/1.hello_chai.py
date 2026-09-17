@@ -1,5 +1,9 @@
 print("chai or python")
 
+""" Python is a programing language use in back end side to manage data processing,
+    logic and database communication."""
+""" It was use in web development,data analysis,ai,machine learning,software testing and so on."""
+
 def chai(n):
     print(n)
 
@@ -29,6 +33,8 @@ chai_two = "chai"
 # output = tea
 
 # mutable or immutable
+# 1.Change in place or modified after creation is called mutable.
+# 2.Not Change in place or modified after creation is called immutable.
 
 # mutable           immutable
 # 1.list            1.integer
@@ -42,6 +48,6 @@ print(username)
 myname = username
 print(myname)
 
-# username = "kantariya"
-# print(username)
-# print(myname)
+username = "kantariya"
+print(username)
+print(myname)

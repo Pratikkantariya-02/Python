@@ -42,7 +42,7 @@ def update_video(videos):
 
 def delete_video(videos):
     list_all_video(videos)
-    index = int(input("Enter the video number to br deleted: "))
+    index = int(input("Enter the video number to be deleted: "))
     if 1 <= index <=len(videos):
         del videos[index-1]
         save_data_helper(videos)

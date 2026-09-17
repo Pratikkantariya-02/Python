@@ -1,7 +1,7 @@
 class Car:
 
     def __init__(self,userbrand, usermodel):
-        self.__brand = userbrand
+        self.__brand = userbrand # Use to create private variale. 
         self.__model = usermodel
     
     @staticmethod
