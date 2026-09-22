@@ -12,6 +12,7 @@ print (l2)
 # l1 == l2
 # ans is true
 # it check the values are equal or not
+
 # l1 is l2 
 # ans is false
 # because we give diff reference so is check the reference of the list
