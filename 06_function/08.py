@@ -5,3 +5,6 @@ def print_kwargs(**kwargs):
 # print_kwargs(name = "ramesh",power = "2")
 print_kwargs(name = "ramesh")
 # print_kwargs(name = "ramesh",power = "2",enemy = "Dr.jigo")
+
+# **kwargs = special syntax use in function,that accept all extra arguments like dictionary
+# pass to the function.

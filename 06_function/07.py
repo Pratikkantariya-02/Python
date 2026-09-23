@@ -6,3 +6,5 @@ def sum_all(*args):
 
 print(sum_all(1,2))
 print(sum_all(1,2,3,4,5))
+
+# *args = special syntax use in function,that accept all extra arguments pass to the function. 

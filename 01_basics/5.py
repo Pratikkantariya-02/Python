@@ -20,4 +20,10 @@
 # ->Condition is expression that evaluates to either true or false.
 
 # 8.LOOP
-# ->Loop is execute block of code repeatedly until a specific condition is met. 
+# ->Loop is execute block of code repeatedly until a specific condition is met.
+
+# 9.VARIABLE
+# ->Varible is use for store and reference data value in computer memory.
+
+# 10.FUNCTION
+# ->Function is reusable block of code to perform specific task.
